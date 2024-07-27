@@ -1,4 +1,8 @@
 # Green-House-Simulation
+#Nihad Fattahzada
+#This is my first project and please make the necessary feedback
+
+
 This is a greenhouse simulation project using Arduino uno, Proteus Design and Windows forums (C#)
 
 The main goal of this project is to create an autonomous soilless greenhouse for a small (about 25 square meters) area that can be controlled by a desktop application (because there is no real simulation, some components are selected and configured as approximate)
