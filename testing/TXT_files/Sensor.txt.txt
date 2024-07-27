@@ -1,0 +1,10 @@
+Temperature : 20.98
+Humidity : 59.43
+Light : 0.01
+PH : 6
+ECS : 0.05
+T_EC : 1
+Wind_d : SOUTH WEST
+Wind_s : 10
+TankH : 50
+TankL : 50

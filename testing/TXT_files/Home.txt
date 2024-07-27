@@ -1,0 +1,8 @@
+Water_pump : 0
+Ventilation : 0
+Lamp : 1
+Heater : 0
+Valve : 1
+Humiliation : 1
+Water_tank : 0
+Value : 40

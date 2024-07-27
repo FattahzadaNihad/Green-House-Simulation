@@ -1,0 +1,5 @@
+Send_button : 1
+Connect : 1
+Disconnect :0
+Names: COM1
+Baund : 9600

@@ -1,0 +1,24 @@
+TemperatureMin : 20
+TemperatureMax : 25
+HumidityMin : 60
+HumidityMax : 70
+PHMin : 00
+PHMax: 7
+ECSMin : 00
+ECSMax : 10
+Lumen : 400
+WLitr : 50
+WHeight : 100
+Valve : 1
+HourL : 00
+MinuteL : 00
+SecondL : 00
+HourSL : 22
+MinuteSL : 00
+SecondSL : 00
+HourWS : 00
+MinuteWS : 00
+SecondWS : 00
+HourWP : 22
+MinuteWP : 00
+SecondWP : 00
