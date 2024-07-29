@@ -1,6 +1,6 @@
 # Green-House-Simulation
 #Nihad Fattahzada
-#This is my first project and please make the necessary feedback
+#Please make the necessary feedback
 
 
 This is a greenhouse simulation project using Arduino uno, Proteus Design and Windows forums (C#)
